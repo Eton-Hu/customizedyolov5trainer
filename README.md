@@ -42,3 +42,6 @@ WARMUP = 50                                                                     
 TARGET_NAMES = ['0','1','2']                                                    # Target names
 ```
 4. run selftrain.py
+
+## YOLOv5 repo
+https://github.com/ultralytics/yolov5
